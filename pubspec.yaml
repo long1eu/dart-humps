@@ -1,5 +1,5 @@
 name: humps
-version: 0.1.0
+version: 0.1.1
 description: Convert camelCase to underscore_separated and vice versa.
 #homepage: https://sparkcentral.com
 #author: Sparkcentral Engineering <dev@sparkcentral.com>
